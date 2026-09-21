@@ -1,7 +1,7 @@
 const handler = m => m;
 
 // Sostituisci questo con il tuo numero in formato JID WhatsApp
-const ownerJid = '393201448716@s.whatsapp.net'; // <--- METTI QUI IL TUO NUMERO
+const ownerJid = '393336413960@s.whatsapp.net'; // <--- METTI QUI IL TUO NUMERO
 
 async function handlePromotion(message) {
   const promoter = message.sender;
