@@ -52,7 +52,7 @@ const handler = async (m, { conn: conn, text: text }) => {
 
     await conn.sendMessage(chatId, {
         text: '🔢 Seleziona un video dai risultati sopra per scegliere il formato da scaricare:',
-        footer: '𝟐𝟐𝟐 𝐁𝚯𝐓 ✦ Downloader',
+        footer: '丂ᐯㄖ 乃ㄖㄒ ✦ Downloader',
         buttons: buttons,
         headerType: 1
     }, { quoted: m });
