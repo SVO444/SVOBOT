@@ -60,20 +60,20 @@ global.imagen4 = fs.readFileSync('./222.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝟐𝟐𝟐 𝐁𝚯𝐓'
+global.packname = '丂ᐯㄖ 乃ㄖㄒ'
 global.author = '𝐌𝐝'
 
 //────────────────────────────
 
 global.vs = 'Finale'
 
-global.nomebot = '𝟐𝟐𝟐 𝐁𝚯𝐓'
+global.nomebot = '丂ᐯㄖ 乃ㄖㄒ'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = '𝟐𝟐𝟐 𝐁𝚯𝐓'
+global.wm = '丂ᐯㄖ 乃ㄖㄒ'
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
